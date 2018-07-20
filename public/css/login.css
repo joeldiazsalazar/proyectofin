@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body{
+	background-image: url(../img/font-login.jpg);
+	width: 100%;
+
+}
+
+.full-cover-background{
+	background-attachment: fixed;
+    background-color: #fff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.abs{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 30%;
+}
+
+.titlle{
+    font-family: 'Open Sans', sans-serif;
+color: red !important;
+    }
